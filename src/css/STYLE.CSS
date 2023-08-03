@@ -1,0 +1,99 @@
+body {
+    background-image: linear-gradient(to top, #c0bfbf ,  #b3b1b1 , #949393 , #817f80);
+    min-height: calc(100vh - 163px);
+
+}
+
+.baner {
+    padding: 20px;
+    border-bottom: black 3px solid;
+    background-image: linear-gradient(to top, #817f80 , #696768)
+}
+
+.logo{
+    width: 120px;
+}
+
+.contato{
+    display: inline;
+    margin-top: 100px;
+    margin-right: 180px;
+    position: relative;
+    float: right;
+    font-size: 22px;
+
+}
+
+.app{
+    width: 15px;
+}
+
+.assunto {
+    font-family: 'Bruno Ace', cursive;
+    line-height: 35px;
+    height: 400px;
+    color: white;
+    padding-top: 110px;
+    padding-left: 45px;
+}
+
+.titulo {
+    padding-top: 50px;
+    padding-left:  40px;
+    font-size: 47px;
+}
+
+.informacao {
+    padding-left:  40px;
+    padding-top: 30px;
+    font-size: 25px;
+    
+}
+
+.parceiras {
+    text-align: center;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+
+.pcrs {
+    width: 100%;
+    padding-top: 10px;
+    font-size: 65px;
+    
+}
+
+.trasher {
+    width: 200px;
+    
+}
+
+.hurley {
+    width: 200px;
+}
+
+.nike{
+    width: 200px;
+
+}
+
+.hocks{
+    width: 100px;
+}
+
+
+.sc{
+    width: 150px;
+}
+
+ul {
+    padding-top: 80px;
+    gap: 60px;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+    max-width: 850px;
+}
+
